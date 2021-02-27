@@ -19,13 +19,13 @@ Instructions:
 - Play the game as Client. 
 
 Controls:
-WASD - Movement
-Shift - Sprint
-E - Interact
-I - Inventory
-G - Throw Grenade
-Left Mouse - Fire
-Right Mouse - ADS
+- WASD - Movement
+- Shift - Sprint
+- E - Interact
+- I - Inventory
+- G - Throw Grenade
+- Left Mouse - Fire
+- Right Mouse - ADS
 
 
 
