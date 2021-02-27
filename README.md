@@ -6,7 +6,7 @@ What's inside the project:
 - Multiplayer Support
 - Custom First Person Character
 - Pickup Items (Weapons, Ammo, Gear, Grenades, Food)
-- Inventory System (with UI)
+- Advanced Inventory System (with UI)
 - Wearable Gears with stats.
 - Interaction System
 - Customizable Weapon System
