@@ -1,4 +1,4 @@
-# Survival Game Showcase Project C++
+# Multiplayer Survival Game Showcase Project C++
 
 This is a showcase project I've worked on for a Multiplayer Survival Game, made in Unreal Engine using C++.
 
